@@ -1,4 +1,4 @@
-package org.example;
+package org.problem1;
 
 public class ArrayDemo {
 
